@@ -5,28 +5,10 @@
   </picture>
 </a>
 
-<br>
-
-I build web and mobile products end to end, from the database schema to the last few milliseconds of an animation. I care most about the details people feel but don't notice: motion, timing, small interactions.
-
-Currently full-stack at **Enernext**. Based in Oderzo, Italy.
-
-<br>
-
-<sub>WEB</sub><br>
-TypeScript, React, Astro, Tailwind, Node, Express
-
-<sub>MOBILE</sub><br>
-React Native, Expo, Flutter
-
-<sub>DATA</sub><br>
-Supabase, Prisma, MySQL, FastAPI
-
-<sub>SHIP</sub><br>
-Vercel, DigitalOcean, GitHub Actions
-
-<sub>DESIGN</sub><br>
-Figma, Illustrator, Photoshop
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" alt="I build web and mobile products end to end, from the database schema to the last few milliseconds of an animation. Stack: TypeScript, React, Astro, Tailwind, Node, Express, React Native, Expo, Flutter, Supabase, Prisma, MySQL, FastAPI, Vercel, DigitalOcean, GitHub Actions, Figma, Illustrator, Photoshop." width="100%">
+</picture>
 
 <br>
 

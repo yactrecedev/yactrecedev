@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="730" viewBox="0 0 1280 730" role="img" aria-label="I build web and mobile products end to end, from the database schema to the last few milliseconds of an animation. Stack: Web — TypeScript, React, Astro, Tailwind, Node, Express. Mobile — React Native, Expo, Flutter. Data — Supabase, Prisma, MySQL, FastAPI. Ship — Vercel, DigitalOcean, GitHub Actions. Design — Figma, Illustrator, Photoshop.">
+  <style>
+    .sans{font-family:Satoshi,'Inter','Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-size:17px;letter-spacing:.08em;fill:#7D8590}
+    .acc{fill:#E63946}
+    .lead{font-size:40px;font-weight:500;letter-spacing:-.02em;fill:#7D8590}
+    .lead .em{fill:#F2EFEA}
+    .nm{font-size:28px;font-weight:700;letter-spacing:-.01em;fill:#F2EFEA}
+    .tl{font-size:22px;fill:#7D8590}
+    .up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.1,1) forwards}
+    @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.up{animation:none;opacity:1}}
+  </style>
+  <rect width="1280" height="730" fill="#0D1117"/>
+  <text class="mono up" x="60" y="92">(01) ABOUT</text>
+  <text class="sans lead up" style="animation-delay:.08s">
+    <tspan x="360" y="92">I build web and mobile products <tspan class="em">end to end</tspan>,</tspan>
+    <tspan x="360" y="146">from the database schema to the <tspan class="em">last few</tspan></tspan>
+    <tspan x="360" y="200"><tspan class="em">milliseconds of an animation.</tspan> The details</tspan>
+    <tspan x="360" y="254">people feel but never notice.</tspan>
+  </text>
+  <text class="mono up" style="animation-delay:.2s" x="60" y="380">(02) STACK</text>
+  <g class="up" style="animation-delay:.25s">
+    <line x1="360" y1="338" x2="1220" y2="338" stroke="#30363D"/>
+    <text class="mono acc" x="360" y="380">01</text>
+    <text class="sans nm" x="412" y="380">Web</text>
+    <text class="sans tl" x="1220" y="380" text-anchor="end">TypeScript, React, Astro, Tailwind, Node, Express</text>
+  </g>
+  <g class="up" style="animation-delay:.32s">
+    <line x1="360" y1="408" x2="1220" y2="408" stroke="#30363D"/>
+    <text class="mono acc" x="360" y="450">02</text>
+    <text class="sans nm" x="412" y="450">Mobile</text>
+    <text class="sans tl" x="1220" y="450" text-anchor="end">React Native, Expo, Flutter</text>
+  </g>
+  <g class="up" style="animation-delay:.39s">
+    <line x1="360" y1="478" x2="1220" y2="478" stroke="#30363D"/>
+    <text class="mono acc" x="360" y="520">03</text>
+    <text class="sans nm" x="412" y="520">Data</text>
+    <text class="sans tl" x="1220" y="520" text-anchor="end">Supabase, Prisma, MySQL, FastAPI</text>
+  </g>
+  <g class="up" style="animation-delay:.46s">
+    <line x1="360" y1="548" x2="1220" y2="548" stroke="#30363D"/>
+    <text class="mono acc" x="360" y="590">04</text>
+    <text class="sans nm" x="412" y="590">Ship</text>
+    <text class="sans tl" x="1220" y="590" text-anchor="end">Vercel, DigitalOcean, GitHub Actions</text>
+  </g>
+  <g class="up" style="animation-delay:.53s">
+    <line x1="360" y1="618" x2="1220" y2="618" stroke="#30363D"/>
+    <text class="mono acc" x="360" y="660">05</text>
+    <text class="sans nm" x="412" y="660">Design</text>
+    <text class="sans tl" x="1220" y="660" text-anchor="end">Figma, Illustrator, Photoshop</text>
+  </g>
+  <line class="up" style="animation-delay:.6s" x1="360" y1="700" x2="1220" y2="700" stroke="#30363D"/>
+</svg>
