@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Tommaso Ongaro — full-stack developer">
   <style>
     .sans{font-family:Satoshi,'Inter','Helvetica Neue',Helvetica,Arial,sans-serif}
-    .mono{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-size:15px;letter-spacing:.08em;fill:#8A8580}
+    .mono{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-size:19px;letter-spacing:.08em;fill:#8A8580}
     .name{font-size:148px;font-weight:800;letter-spacing:-.045em;fill:#F2EFEA}
     .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.1,1) forwards}
     .d1{animation-delay:.05s}.d2{animation-delay:.18s}.d3{animation-delay:.45s}
@@ -12,17 +12,17 @@
     @keyframes pulse{50%{opacity:.25}}
     @media (prefers-reduced-motion:reduce){.up,.rule,.dot{animation:none;opacity:1;stroke-dashoffset:0}}
   </style>
-  <rect width="1280" height="480" fill="#0D0D0D"/>
+  <rect width="1280" height="480" fill="#0D1117"/>
   <g class="up d3">
     <text class="mono" x="60" y="66">YACTRECE</text>
     <text class="mono" x="1220" y="66" text-anchor="end">ODERZO, IT — 45.78°N 12.49°E</text>
   </g>
   <text class="sans name up d1" x="52" y="236">Tommaso</text>
   <text class="sans name up d2" x="52" y="364">Ongaro<tspan fill="#E63946">.</tspan></text>
-  <line class="rule" x1="60" y1="420" x2="1220" y2="420" stroke="#2A2A2A" stroke-width="1"/>
+  <line class="rule" x1="60" y1="420" x2="1220" y2="420" stroke="#30363D" stroke-width="1"/>
   <g class="up d3">
     <text class="mono" x="60" y="454">FULL-STACK DEVELOPER · WEB + MOBILE</text>
-    <circle class="dot" cx="1060" cy="449" r="4" fill="#E63946"/>
+    <circle class="dot" cx="1016" cy="449" r="4" fill="#E63946"/>
     <text class="mono" x="1220" y="454" text-anchor="end">NOW AT ENERNEXT</text>
   </g>
 </svg>

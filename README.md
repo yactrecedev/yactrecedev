@@ -13,28 +13,20 @@ Currently full-stack at **Enernext**. Based in Oderzo, Italy.
 
 <br>
 
-<table>
-  <tr>
-    <td width="140" valign="top"><sub>WEB</sub></td>
-    <td>TypeScript, React, Astro, Tailwind, Node, Express</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>MOBILE</sub></td>
-    <td>React Native, Expo, Flutter</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>DATA</sub></td>
-    <td>Supabase, Prisma, MySQL, FastAPI</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>SHIP</sub></td>
-    <td>Vercel, DigitalOcean, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>DESIGN</sub></td>
-    <td>Figma, Illustrator, Photoshop</td>
-  </tr>
-</table>
+<sub>WEB</sub><br>
+TypeScript, React, Astro, Tailwind, Node, Express
+
+<sub>MOBILE</sub><br>
+React Native, Expo, Flutter
+
+<sub>DATA</sub><br>
+Supabase, Prisma, MySQL, FastAPI
+
+<sub>SHIP</sub><br>
+Vercel, DigitalOcean, GitHub Actions
+
+<sub>DESIGN</sub><br>
+Figma, Illustrator, Photoshop
 
 <br>
 
